@@ -147,6 +147,7 @@ rabbitmq = ['librabbitmq>=1.6.1']
 oracle = ['cx_Oracle>=5.1.2']
 postgres = ['psycopg2>=2.6']
 salesforce = ['simple-salesforce>=0.72']
+scrapy = ['scrapy==1.3.2']
 s3 = [
     'boto>=2.36.0',
     'filechunkio>=1.6',
